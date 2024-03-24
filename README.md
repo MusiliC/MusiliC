@@ -9,6 +9,6 @@ Here are some ideas to get you started:
   - **DevOps**
 - 🌱 I’m currently learning best practices in software engineering and DevOps to enhance my skills.
 - 👯 I’m looking to collaborate on interesting projects
-- 📫  You can reach me through email at musilibrian07.gail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/brian-musili-405b1220a/).
+- 📫  You can reach me through email at musilibrian07.gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/brian-musili-405b1220a/).
 - 😄 Pronouns: He/Him
 
